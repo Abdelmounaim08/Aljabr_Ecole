@@ -1,0 +1,13 @@
+.responsive-table {
+    @media (max-width: 640px) {
+      font-size: 12px;
+    }
+  
+    @media (min-width: 641px) and (max-width: 768px) {
+      font-size: 14px;
+    }
+  
+    /* Add more media queries for different screen sizes if needed */
+  
+    /* Custom styles for the table */
+  }
